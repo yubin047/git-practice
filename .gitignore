@@ -1,0 +1,7 @@
+# Ignore common files
+*.log
+*.env
+# Ignore Mac OS system files
+.DS_Store
+
+feat: Add .gitignore for security
